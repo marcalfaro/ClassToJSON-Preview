@@ -1,4 +1,4 @@
-# Note: The code is in my private repo. 
+# Note: The project is in my private repo. 
 
 You can get this extension in the Visual Studio Marketplace:
 https://marketplace.visualstudio.com/items?itemName=MarcAlfaro.ClassToJSON
